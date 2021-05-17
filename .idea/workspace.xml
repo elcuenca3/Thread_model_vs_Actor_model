@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bd52b18-0e0c-4194-b25f-f16c4ec49932" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/caso1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso1/actores/Espadachin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso1/actores/Herrero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso1/actores/Minero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso2/actores/Espadachin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso2/actores/Herrero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso2/actores/Minero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso3/actores/Espadachin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso3/actores/Herrero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caso3/actores/Minero.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sbJnbxXpDXOE2S7pg52HbVVQ3O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.MultiThreadedPrimes">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caso2.Main" />
+      <module name="tutorial-akka-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caso2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caso3.Main" />
+      <module name="tutorial-akka-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caso3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caso1.Main" />
+      <module name="tutorial-akka-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caso1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadedPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F.MultiThreadedPrimes" />
+      <module name="tutorial-akka-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="F.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThreadedPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F.SingleThreadedPrimes" />
+      <module name="tutorial-akka-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="F.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiThreadedPrimes" />
+        <item itemvalue="Application.SingleThreadedPrimes" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd52b18-0e0c-4194-b25f-f16c4ec49932" name="Default Changelist" comment="" />
+      <created>1621135524616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621135524616</updated>
+      <workItem from="1621135534993" duration="2064000" />
+      <workItem from="1621227613617" duration="668000" />
+      <workItem from="1621228351542" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,6 +1,6 @@
 # Thread_model_vs_Actor_model
 
-**Integrantes: 
+**Integrantes:**
 ___
 - Erick Cuenca 
 - Diego Leyba 
